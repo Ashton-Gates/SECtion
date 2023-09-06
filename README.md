@@ -1,2 +1,2 @@
 # SECtion
-Underground SOC Toolkit
+Terminal-based proxy and web server vulnerability scanner. 
