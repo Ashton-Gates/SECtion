@@ -1,0 +1,1 @@
+gcc -o scanner scanner.c -lcurl -ljansson
